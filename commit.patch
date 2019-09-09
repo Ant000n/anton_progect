@@ -1,0 +1,14 @@
+Index: src/com/company/homework_1/task_1/Task_1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/company/homework_1/task_1/Task_1.java	(revision e9f08da6dfddde8fed342bc3bc090f2779d790fe)
++++ src/com/company/homework_1/task_1/Task_1.java	(revision e9f08da6dfddde8fed342bc3bc090f2779d790fe)
+@@ -1,6 +0,0 @@
+-package com.company.homework_1.task_1;
+-
+-public class Task_1 {
+-    public static void main(String[] args) {
+-    }
+-}

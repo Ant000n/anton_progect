@@ -1,0 +1,35 @@
+Index: src/com/company/homework_1/task_1/Task_1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/company/homework_1/task_1/Task_1.java	(revision e9f08da6dfddde8fed342bc3bc090f2779d790fe)
++++ src/com/company/homework_1/task_1/Task_1.java	(revision e9f08da6dfddde8fed342bc3bc090f2779d790fe)
+@@ -1,6 +0,0 @@
+-package com.company.homework_1.task_1;
+-
+-public class Task_1 {
+-    public static void main(String[] args) {
+-    }
+-}
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(revision e9f08da6dfddde8fed342bc3bc090f2779d790fe)
++++ .idea/modules.xml	(date 1567799104812)
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-      <module fileurl="file://$PROJECT_DIR$/HomeWork.iml" filepath="$PROJECT_DIR$/HomeWork.iml" />
++      <module fileurl="file://$PROJECT_DIR$/anton.iml" filepath="$PROJECT_DIR$/anton.iml" />
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file
+Index: HomeWork.iml
+===================================================================
+--- HomeWork.iml	(revision e9f08da6dfddde8fed342bc3bc090f2779d790fe)
++++ anton.iml	(date 1567797188822)
