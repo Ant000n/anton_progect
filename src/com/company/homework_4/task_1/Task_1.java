@@ -1,7 +1,7 @@
 package com.company.homework_4.task_1;
 
 public class Task_1 {
-
+// пустая строка не нужна
     public static void main(String[] args) {
         String text = new String("engineering");
 
