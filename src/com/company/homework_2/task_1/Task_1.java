@@ -6,7 +6,7 @@ public class Task_1 {
 
         int myInt = 5;
 //         double myDouble = myInt; - когда идет повышение типа нету необходимости делать явное приведение типа
-        double myDouble = (double) myInt;
+        double myDouble = myInt;
 
         System.out.println("myDouble = " + myDouble);
     }
