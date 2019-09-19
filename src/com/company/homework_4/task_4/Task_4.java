@@ -9,7 +9,7 @@ public class Task_4 {
                 "Game has been extensively tested in closed group, but it is always important to hear fresh suggestions\n" +
                 "from larger crowd that come from various gaming backgrounds.\n" +
                 "Plan is to make the game as good as possible but without compromising the core idea.";
-            System.out.println("Есть ли слово 'alert' в тексте? = " + task_4.contains("alert"));
+        System.out.println("Есть ли слово 'alert' в тексте? = " + task_4.contains("alert"));
         System.out.println("Есть ли слово 'add' в тексте? = " + task_4.contains("add"));
         System.out.println("Есть ли слово 'good' в тексте? = " + task_4.contains("good"));
         System.out.println("Есть ли слово 'plan' в тексте? = " + task_4.contains("plan"));
