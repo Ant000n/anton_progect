@@ -18,6 +18,6 @@ public class Task_7 {
         System.out.println("1234          4321");
         System.out.println("123            321");
         System.out.println("12              21");
-        System.out.println("1                1");
+        System.out.println("1                1");  //  просто не успел нормально
     }
 }
