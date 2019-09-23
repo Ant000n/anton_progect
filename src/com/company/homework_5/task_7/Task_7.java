@@ -2,6 +2,8 @@ package com.company.homework_5.task_7;
 
 public class Task_7 {
     public static void main(String[] args) {
+        // круто конечно но нет, задача на циклы. При этом можно изменив число, изменить размер бабочки
+        
         System.out.println("1                1");
         System.out.println("12              21");
         System.out.println("123            321");
