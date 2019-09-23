@@ -10,7 +10,7 @@ public class Task_1 {
         System.out.println("Сумма четных чисел: " + sum);
         int sum_1 = 0;
         for (int x = 0; x <= 100; x++) {
-            if (x%2 != 0) {
+            if (x % 2 != 0) {
                 sum_1 = sum_1 + x;
             }
         }

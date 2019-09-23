@@ -19,10 +19,5 @@ public class Task_7 {
         System.out.println("123            321");
         System.out.println("12              21");
         System.out.println("1                1");
-
-
-
-
-
     }
 }
