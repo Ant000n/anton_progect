@@ -5,6 +5,7 @@ public class Task_2 {
         int[] ints = new int[10];
         int min, max;
 
+        // в цикле Math.random() лучше использовать
         ints[0] = 94;
         ints[1] = 9;
         ints[2] = 21;
@@ -16,7 +17,8 @@ public class Task_2 {
         ints[8] = 49;
         ints[9] = 25;
 
-        min = max = ints[0];
+        min = max = ints[0]; // <- если будет пустой массив, то получишь исключение. Подумай как этого избежать
+        // 10 -> ints.length
         for (int i = 1; i < 10; i++) {
             if (ints[i] < min) {
                 min = ints[i];
