@@ -19,7 +19,7 @@ public class Task_2 {
 
         min = max = ints[0]; // <- если будет пустой массив, то получишь исключение. Подумай как этого избежать
         // 10 -> ints.length
-        for (int i = 1; i < 10; i++) {
+        for (int i = 1; i < ints.length; i++) {
             if (ints[i] < min) {
                 min = ints[i];
             }
