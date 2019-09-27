@@ -7,6 +7,7 @@ public class Task_2 {
             int retrievedNumber = Integer.parseInt(text);
             System.out.println(retrievedNumber);
         } catch (NumberFormatException e) {
+            // смотри комментарий к Таск_1
             System.out.println("Исключение" + e);
         }
         // тот же комментарий, что к Таск_1. Эта строка должна отрабатывать только если некорректное число, в блок catch ее
