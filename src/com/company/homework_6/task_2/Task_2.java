@@ -9,6 +9,7 @@ public class Task_2 {
         } catch (NumberFormatException e) {
             System.out.println("Исключение" + e);
         }
+        // тот же комментарий, что к Таск_1. Эта строка должна отрабатывать только если некорректное число, в блок catch ее
         System.out.println("Неверный формат строки");
     }
 }
