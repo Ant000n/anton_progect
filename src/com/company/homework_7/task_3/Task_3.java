@@ -2,6 +2,7 @@ package com.company.homework_7.task_3;
 
 import java.io.*;
 
+// +
 public class Task_3 {
     private static final String PATH = "src/com/company/homework_7/task_2/text";
 
