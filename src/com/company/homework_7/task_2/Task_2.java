@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+// +
 public class Task_2 {
     private static final String PATH = "src/com/company/homework_7/task_2/text";
 
