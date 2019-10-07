@@ -11,8 +11,7 @@ public class Task_1 {
     public static void main(String[] args) {
         byte[] buf = {1, 2, 3, 4, 5, 6, 9};
        try(FileOutputStream fos = new FileOutputStream(PATH)) {
-           // здесь должен быть цикл с вызовом метода write
-            // fos.write()
+           fos.write(buf);
        } catch (FileNotFoundException e) {
            e.printStackTrace();
        } catch (IOException e) {
