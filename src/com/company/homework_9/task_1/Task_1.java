@@ -2,6 +2,7 @@ package com.company.homework_9.task_1;
 
 public class Task_1 {
     public static void main(String[] args) {
+//такой класс в отдельный файл
         class Account <T> {
             private T id;
 
