@@ -8,6 +8,7 @@ public class Task_1 {
 
         boolean isSortes = false;
         int buf;
+// решение не самое оптимальное, но сойдёт 
         while (!isSortes) {
             isSortes = true;
             for (int i = 0; i < ints.length - 1; i++) {
