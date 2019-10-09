@@ -10,6 +10,12 @@ public class Task_5 {
         Date startArrays = new Date();
         for(int i = 0; i < 100_000; i++) {
         }
+        
+        /*
+        while(arrayList.size > 0) {
+        arrayList.remove(arrayList.size/2);
+        }
+        */
         Date finishArrays = new Date();
         long arrayTime = finishArrays.getTime() - startArrays.getTime();
     }
