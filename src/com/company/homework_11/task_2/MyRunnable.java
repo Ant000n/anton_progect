@@ -3,6 +3,7 @@ package com.company.homework_11.task_2;
 public class MyRunnable implements Runnable {
     @Override
     public void run() {
+        // 20 - лучше в конструкторе
         for (int i = 0; i <= 20; i++) {
             try {
                 System.out.println(i);
