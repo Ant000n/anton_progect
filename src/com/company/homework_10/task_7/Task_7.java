@@ -6,6 +6,7 @@ import java.util.TreeSet;
 
 public class Task_7 {
     public static void main(String[] args) {
+        // TreeSet<Integer> set = new TreeSet<>();
         Set<Integer> set = new TreeSet<>();
         set.add(4);
         set.add(9);

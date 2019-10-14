@@ -5,6 +5,7 @@ import org.w3c.dom.stylesheets.LinkStyle;
 import java.util.ArrayList;
 import java.util.List;
 
+// +
 public class Task_3 {
     public static void main(String[] args) {
         List<Integer> arrayListOne = new ArrayList<>();

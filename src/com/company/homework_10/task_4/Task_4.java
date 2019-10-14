@@ -3,6 +3,7 @@ package com.company.homework_10.task_4;
 import java.util.ArrayList;
 import java.util.List;
 
+//+
 public class Task_4 {
     public static void main(String[] args) {
         List<Integer> arrayListOne = new ArrayList<>();
