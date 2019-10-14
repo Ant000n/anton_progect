@@ -6,6 +6,5 @@ public class Task_1 {
         thread.start();
 
         thread.join();
-
     }
 }

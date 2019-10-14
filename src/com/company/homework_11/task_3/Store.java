@@ -9,6 +9,7 @@ public class Store {
     public Store(int maxcount) {
         toys = new ArrayList<>(maxcount);
     }
+
     public boolean add(String toy) {
         synchronized (this) {
             return toys.add(toy);

@@ -5,6 +5,5 @@ public class Task_2 {
         Thread thread = new Thread(new MyRunnable());
         thread.start();
         thread.join();
-
     }
 }
