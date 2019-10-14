@@ -1,5 +1,6 @@
 package com.company.homework_11.task_3;
 
+// Producer - опечатка
 public class ToysProbucer implements Runnable {
     private String name;
     private Store store;
