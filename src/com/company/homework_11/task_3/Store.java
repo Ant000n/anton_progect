@@ -3,6 +3,7 @@ package com.company.homework_11.task_3;
 import java.util.ArrayList;
 import java.util.List;
 
+// +
 public class Store {
     private List<String> toys;
 
